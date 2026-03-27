@@ -1,5 +1,7 @@
 # Migration Plan
 
+> **Migration completed.** The React implementation is at [`../react-conduit/`](../react-conduit/). A full retrospective — including the Angular → React concept mapping, key decisions, and challenges — is documented in [`react-conduit/MIGRATION_REPORT.md`](../react-conduit/MIGRATION_REPORT.md).
+
 This document outlines a recommended approach for migrating the Angular Conduit app to another framework (e.g., React, Vue, or similar).
 
 ---
